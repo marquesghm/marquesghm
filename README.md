@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [marquesfolio.com](marquesfolio.com)
 
-- 📫 How to reach me **[my site](marquesfolio.com), [linkedIn](https://www.linkedin.com/in/marquesghm/) or email**
+- 📫 How to reach me: **[my site](marquesfolio.com), [linkedIn](https://www.linkedin.com/in/marquesghm/) or email(guilherme.marculino@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
