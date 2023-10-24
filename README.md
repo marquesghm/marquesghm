@@ -1,6 +1,6 @@
 ![github_cover_marquesghm](https://github.com/marquesghm/marquesghm/assets/7594756/3f6839c8-f89b-4cdd-8ed8-b79e3cac8a79)
 <h1 align="center">Hi, I'm Guilherme!</h1>
-<h3 align="center">Passionate about new technologies, Machine Learning, Computer Vision, Robotics, and Board Games.</h3>
+<h3 align="center">Passionate about learning new technologies, Cloud Development, Machine Learning, Computer Vision, Robotics, IoT, and Board Games.</h3>
 
 - 🔭 I’m currently working on [SmartTable](https://github.com/marquesghm/SmartTable)
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marquesghm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marquesghm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/marquesghm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marquesghm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@marquesghm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marquesghm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
