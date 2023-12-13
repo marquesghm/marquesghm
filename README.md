@@ -5,8 +5,8 @@
 **About me:**
 - 🔭 I’m currently working on [SmartTable](https://github.com/marquesghm/SmartTable)
 - 🌱 I’m currently learning **Full Stack Development**
-- 👨‍💻 All of my projects are available at [marquesghm.vercel.app](https://marquesghm.vercel.app/)
-- 📫 How to reach me: **[Portfolio](https://marquesghm.vercel.app/), [LinkedIn](https://www.linkedin.com/in/marquesghm/), [Youtube](https://www.youtube.com/@marquesghm) or [email](guilherme.marculino@gmail.com)**
+- 👨‍💻 All of my projects are available at [marquesfolio.com](https://marquesfolio.com/)
+- 📫 How to reach me: **[Portfolio](https://marquesfolio.com/), [LinkedIn](https://www.linkedin.com/in/marquesghm/), [Youtube](https://www.youtube.com/@marquesghm) or [email](guilherme.marculino@gmail.com)**
 
 **Languages and Tools:**  
 <img align="left" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
