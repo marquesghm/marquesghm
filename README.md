@@ -1,4 +1,4 @@
-![github_cover_marquesghm](https://github.com/marquesghm/marquesghm/assets/7594756/3f6839c8-f89b-4cdd-8ed8-b79e3cac8a79)
+![github_cover_marquesghm-v2](https://github.com/marquesghm/marquesghm/assets/7594756/a7bfb057-0ca4-4cae-80d3-fc918fe11e99)
 
 **Hi, I'm Guilherme!**
 ##
